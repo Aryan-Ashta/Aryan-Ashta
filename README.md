@@ -2,11 +2,8 @@
 ### I'm Aryan, a high school student looking ot create real, useful things using STEM skills
 
 ### Interests:
-* Chemistry
 * Mathematics
 * Computer Science
-* Physics
-* Computational Biology
 <!--
 **Aryan-Ashta/Aryan-Ashta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
