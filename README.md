@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm Aryan, a high school student looking ot create real, useful things using STEM skills
+### I'm Aryan, a high school student looking to create real, useful things using STEM skills
 
 ### Interests:
 * Mathematics
