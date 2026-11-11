@@ -29,6 +29,6 @@ Math + CS at UIUC. I build ML systems from the bottom up: compilers for microcon
 
 **[Gambling debt cascades](https://github.com/Aryan-Ashta/Mathworks-Math-Modeling-Challenge-2026-Problem-3)** models how gambling losses cascade into bankruptcy as a nine-state Markov chain (M3 Challenge 2026).
 
-Also: [Hierarchical Adapter Fusion](https://github.com/Aryan-Ashta/Hierarchical_Adapter_Fusion) · [mappr](https://github.com/Aryan-Ashta/mappr) (interactive codebase maps for oh-my-pi agents)
+Also: [Hierarchical Adapter Fusion](https://github.com/Aryan-Ashta/Hierarchical_Adapter_Fusion) · [blueprint](https://github.com/Aryan-Ashta/blueprint) (interactive codebase maps for oh-my-pi agents)
 
 [aryanashta.me](https://www.aryanashta.me) · [LinkedIn](https://www.linkedin.com/in/aryan-ashta) · [X](https://x.com/aryanashta) · [CV](https://www.aryanashta.me/cv.pdf)
